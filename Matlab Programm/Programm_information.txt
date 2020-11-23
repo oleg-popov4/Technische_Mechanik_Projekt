@@ -1,0 +1,2 @@
+Fur einzelne Programm Ausfuhrung kann main.m benutz werden.
+Fur mehre Gitter Aufnahme kann StartAufnachme.m benutzt werden
